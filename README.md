@@ -1,6 +1,18 @@
-# ChatApp
-Application Testing Chat Room using Firebase and Shoutem UI
+# React Native Chat Application with Firebase and Redux
+  - A sample application for private and public chat room using firebase and shoutem UI.
 
-# Description
-- Use Firebase for Chatting Messages. 
-- Can use with global or private chatting.
+# Reference
+  - You can see steps in the following blog for this demo application.
+    https://medium.com/react-native-development/build-a-chat-app-with-firebase-and-redux-part-1-8a2197fb0f88
+  
+  - You can make our own data structure in Firebase Realtime Database.
+    https://firebase.google.com/docs/database/web/structure-data
+    
+# Requirements
+  - firebase SDK
+  - Shoutem UI
+  - I used firebase for data storage and a quick real-time messaging backbone. 
+
+# Set Up
+  - Install firebase SDK and shoutem UI.
+  - Configure project in firebase console for WEB SETUP.
